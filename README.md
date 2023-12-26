@@ -1,6 +1,6 @@
 
-Xtern 2024 Artificial Intelligence Data Set Analysis
-Project Overview
+Xtern 2024 Artificial Intelligence Data Set Analysis Project Overview.
+
 This project involves analyzing the "Xtern 2024 Artificial Intelligence Data Set" to predict orders. The dataset is initially cleaned, explored, and processed using various data preprocessing techniques. The primary focus is on applying machine learning models to achieve accurate predictions.
 
 Dataset
